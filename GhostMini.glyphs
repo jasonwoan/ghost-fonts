@@ -4270,6 +4270,14 @@ width = 600;
 }
 );
 gridLength = 100;
+instances = (
+{
+instanceInterpolations = {
+"397D9179-73DE-4205-9611-A356F79820ED" = 1;
+};
+name = Regular;
+}
+);
 unitsPerEm = 1000;
 versionMajor = 1;
 versionMinor = 0;
